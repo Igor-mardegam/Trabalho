@@ -1,0 +1,45 @@
+body{
+	background-color: white;
+}
+div.cabecalho figcaption{
+	color: white;
+	position: bottom; display: inline;
+	text-align: center;
+}
+div.cabecalho{
+	background-color: #283e4a;
+}
+
+img.displayed_perf{
+	border-style: solid;
+	border-radius: 100px;
+	border-width: 5px;
+}
+
+#painell{
+	text-align: center;
+}
+div.popi{
+	text-align: center;
+}
+
+#wrapper {
+  text-align: center;
+}
+p {
+	color: black;
+	font-size: 19px;
+} 
+h1, h3, h5{
+	color: #FF0000;
+}
+h2{
+	color: #FF0000;
+	font-size: 40px;
+}
+td{
+	color: black;
+}
+img.displayed_fot{
+	border-radius: 80%;/*imagem redonda*/
+}
